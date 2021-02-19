@@ -1,5 +1,5 @@
 ## Привет! 👋 [helldoodle]
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=helldoodle.helldoodle) [![Github](https://img.shields.io/github/followers/helldoodle?label=Followers&logo=Github)](https://github.com/helldoodle-dev)
 
 ## Контакты со мной 💭
 - <a href="https://t.me/helldoodle"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram</a>
