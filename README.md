@@ -6,5 +6,11 @@
 - <a href="mailto:crinny@protonmail.com">📩 E-mail: `helldoodle@helldoodle.space`</a>
 
 ## :trophy: Моя GitHub Статистика:
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=helldoodle&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=helldoodle&langs_count=5&theme=tokyonight)]()
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=helldoodle&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=helldoodle&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=helldoodle&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=helldoodle&hide=php&theme=tokyonight" />
+</a>
+</div>
