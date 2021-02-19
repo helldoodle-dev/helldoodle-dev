@@ -4,7 +4,7 @@
 ## Контакты со мной 💭
 - <a href="https://t.me/helldoodle"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram</a>
 - <a href="mailto:helldoodle@helldoodle.space">📩 E-mail: `helldoodle@helldoodle.space`</a>
-- <a><img src="https://banner2.cleanpng.com/20180715/fwc/kisspng-computer-icons-discord-logo-smiley-emoticon-avatar-na-discord-5b4b6f179eb511.3695532315316702956501.jpg" width=16 height=16 align="center" /> Discord: helldoodle#3297</a>
+- <a><img src="https://mpng.subpng.com/20180427/wvq/kisspng-discord-logo-computer-icons-reddit-zongzi-14-0-1-5ae3de249d00b2.2332496115248829806431.jpg" width=16 height=16 align="center" /> Discord: helldoodle#3297</a>
 
 ## :trophy: Моя GitHub Статистика:
 <div>
