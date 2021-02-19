@@ -3,7 +3,7 @@
 
 ## Контакты со мной 💭
 - <a href="https://t.me/helldoodle"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram</a>
-- <a href="mailto:crinny@protonmail.com">📩 E-mail: `helldoodle@helldoodle.space`</a>
+- <a href="mailto:helldoodle@helldoodle.space">📩 E-mail: `helldoodle@helldoodle.space`</a>
 
 ## :trophy: Моя GitHub Статистика:
 <div>
