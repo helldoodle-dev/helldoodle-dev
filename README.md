@@ -3,7 +3,7 @@
 <div>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=helldoodle.helldoodle)
-![Github](https://img.shields.io/github/followers/helldoodle?label=Followers&logo=Github)
+![Github](https://img.shields.io/github/followers/helldoodle-dev?label=Followers&logo=Github)
 </div>
 
 ## Контакты со мной 💭
