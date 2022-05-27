@@ -14,7 +14,7 @@
 ## Контакты со мной 💭
 - <a href="https://t.me/helldoodle"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram</a>
 - <a href="mailto:helldoodle@helldoodle.space">📩 E-mail: `helldoodle@helldoodle.space`</a>
-- <a><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" width=20 height=20 align="center" /> Discord: helldoodle#3297</a>
+- <a><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" width=20 height=20 align="center" /> Discord: helldoodle#4034</a>
 
 ## :trophy: Моя GitHub Статистика:
 <div>
