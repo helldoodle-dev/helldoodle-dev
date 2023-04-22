@@ -11,10 +11,6 @@
 <a href="https://helldoodle.space"><img src="https://img.shields.io/website?color=1&down_color=1&down_message=1&logoColor=1&style=social&up_color=1&url=https%3A%2F%2Fhelldoodle.space" alt="Website"></a>
 </div>
 
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b2577b&lines=Telegram:+@bush1root)](https://t.me/bush1root)
-</div>
-
 ## Контакты со мной 💭
 - <a href="https://t.me/helldoodle"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram</a>
 - <a href="mailto:helldoodle@helldoodle.space">📩 E-mail: `helldoodle@helldoodle.space`</a>
