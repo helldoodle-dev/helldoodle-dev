@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-[![Python](https://readme-typing-svg.herokuapp.com/?color=b2577b&lines=absolute%3F)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b2577b&lines=Telegram:+@bush1root)](https://t.me/bush1root)
 </div>
 
 ## Контакты со мной 💭
