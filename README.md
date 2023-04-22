@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  ![SVG](https://readme-typing-svg.herokuapp.com/?color=b2577b&lines=absolute%3F)
+![Python](https://readme-typing-svg.herokuapp.com/?color=b2577b&lines=absolute%3F)
 </div>
 
 ## Контакты со мной 💭
