@@ -9,6 +9,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/helldoodle-dev?style=social">
 <a href="https://github.com/helldoodle-dev"><img src="https://img.shields.io/github/followers/helldoodle-dev.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a href="https://helldoodle.space"><img src="https://img.shields.io/website?color=1&down_color=1&down_message=1&logoColor=1&style=social&up_color=1&url=https%3A%2F%2Fhelldoodle.space" alt="Website"></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b2577b&lines=absolute?)]
 </div>
 
 ## Контакты со мной 💭
