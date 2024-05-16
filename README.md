@@ -17,6 +17,7 @@
 - <a><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" width=20 height=20 align="center" /> Discord: helldoodle#4034</a>
 
 ## :trophy: Моя GitHub Статистика:
+нихуя нету
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=helldoodle&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=helldoodle&count_private=true&show_icons=true&theme=tokyonight" />
