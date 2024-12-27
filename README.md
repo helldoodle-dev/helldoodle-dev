@@ -11,7 +11,6 @@
 <a href="https://github.com/helldoodle-dev"><img src="https://img.shields.io/github/followers/helldoodle-dev.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a href="https://helldoodle.space"><img src="https://img.shields.io/website?color=1&down_color=1&down_message=1&logoColor=1&style=social&up_color=1&url=https%3A%2F%2Fhelldoodle.space" alt="Website"></a>
 
-                             egoista?
 </div>
 
 ## Контакты со мной 💭
@@ -27,11 +26,11 @@
   </picture>
 
 
-<div>
+<!--<div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=helldoodle&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=helldoodle&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=helldoodle&hide=php&theme=tokyonight">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=helldoodle&hide=php&theme=tokyonight" />
 </a>
-</div>
+</div>--!>
