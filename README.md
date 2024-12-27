@@ -19,7 +19,14 @@
 - <a><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico" width=20 height=20 align="center" /> Discord: helldoodle</a>
 
 ## :trophy: Моя GitHub Статистика:
-нихуя нету
+  <p><img src="https://github-readme-stats.vercel.app/api?username=helldoodle&show_icons=true&theme=midnight-purple"/></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EpicPlayerA10/EpicPlayerA10/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EpicPlayerA10/EpicPlayerA10/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/EpicPlayerA10/EpicPlayerA10/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=helldoodle&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=helldoodle&count_private=true&show_icons=true&theme=tokyonight" />
