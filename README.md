@@ -5,12 +5,12 @@
   </a>
 </p>
 
-<table>
+<table border="0" style="border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=helldoodle-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true"/>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helldoodle-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
     </td>
   </tr>
