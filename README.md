@@ -8,7 +8,9 @@
 <div align="center">
   <div style="display: flex; align-items: center; gap: 10px; border: none !important;">
     <img src="https://github-readme-stats.vercel.app/api?username=helldoodle-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helldoodle-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+    <h2 align="left" style="vertical-align: middle;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helldoodle-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /><sup><sub> - MIN API 16</sub></sup>
+    </h2>
   </div>
 </div>
 <div align="center">
