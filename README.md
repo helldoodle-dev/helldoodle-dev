@@ -31,7 +31,7 @@
 - <a><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico" width=20 height=20 align="center" /> Discord: helldoodle</a>
 
 <picture>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/EpicPlayerA10/EpicPlayerA10/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/EpicPlayerA10/EpicPlayerA10/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 
