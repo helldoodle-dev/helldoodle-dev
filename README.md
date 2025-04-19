@@ -6,12 +6,11 @@
 </p>
 
 <div align="center">
-  <div style="display: flex; gap: 10px; border: none !important;">
+  <div style="display: flex; align-items: center; gap: 10px; border: none !important;">
     <img src="https://github-readme-stats.vercel.app/api?username=helldoodle-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helldoodle-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
   </div>
 </div>
-
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=helldoodle-dev&color=brightgreen)
