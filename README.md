@@ -5,16 +5,12 @@
   </a>
 </p>
 
-<table border="0" style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=helldoodle-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true"/>
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helldoodle-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="display: flex; gap: 10px; border: none !important;">
+    <img src="https://github-readme-stats.vercel.app/api?username=helldoodle-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helldoodle-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+  </div>
+</div>
 
 <div align="center">
 
