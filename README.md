@@ -1,16 +1,4 @@
 ## Hello 👋
-
-<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=helldoodle-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true"/>
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helldoodle-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,php,py,nodejs,js,html,css&theme=dark" />
@@ -25,6 +13,18 @@
 <a href="https://helldoodle.space"><img src="https://img.shields.io/website?color=1&down_color=1&down_message=1&logoColor=1&style=social&up_color=1&url=https%3A%2F%2Fhelldoodle.space" alt="Website"></a>
 
 </div>
+
+# 📊 GitHub Stats:
+<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=helldoodle-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true"/>
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helldoodle-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+    </td>
+  </tr>
+</table>
 
 ## Контакты со мной 💭
 - <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram: helldoodle</a>
