@@ -30,7 +30,9 @@
 - <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram: helldoodle</a>
 - <a><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico" width=20 height=20 align="center" /> Discord: helldoodle</a>
 
-<img alt="github-snake" src="https://raw.githubusercontent.com/EpicPlayerA10/EpicPlayerA10/output/github-contribution-grid-snake.svg" />
+<picture>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/EpicPlayerA10/EpicPlayerA10/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 <!--<div>
