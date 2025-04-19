@@ -1,9 +1,4 @@
 ## Привет! 👋 [helldoodle]
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,py,nodejs,js,html,css&theme=dark" />
-  </a>
-</p>
 
 <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
   <tr>
@@ -15,6 +10,12 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,py,nodejs,js,html,css&theme=dark" />
+  </a>
+</p>
 
 <div align="center">
 
