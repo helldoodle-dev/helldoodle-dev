@@ -1,11 +1,18 @@
-![Header](./github-header-image.png)
-
 ## Привет! 👋 [helldoodle]
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,php,py,nodejs,js,html,css&theme=dark" />
   </a>
 </p>
+
+<div style="display: flex;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=helldoodle-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true"/>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helldoodle-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+  </div>
+</div>
 
 <div align="center">
 
