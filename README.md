@@ -2,9 +2,8 @@
 ### ...
 
 ## 🔨 My Skills
-<img src="https://skillicons.dev/icons?i=java,php,py,nodejs,js,html,css&theme=dark" />
-
 <div align="center">
+<img src="https://skillicons.dev/icons?i=java,php,py,nodejs,js,html,css&theme=dark" />
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=helldoodle-dev&color=brightgreen)
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/helldoodle-dev?style=social">
