@@ -1,5 +1,5 @@
-# <p align="center">Hello 👋</p>
-### <p align="center">...</p>
+# <p align="center">Hello zaebal 👋</p>
+### <p align="center"></p>
 
 ## 🔨 My Skills
 <p align="center">
