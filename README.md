@@ -3,7 +3,7 @@
 
 ## 🔨 My Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,py,nodejs,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,bots,php,py,nodejs,js,html,css&theme=dark" />
 </p>
 
 <div align="center">
@@ -28,7 +28,7 @@
 
 ## 💭 Contact with me
 - Telegram: helldoodle
-- Discord: helldoodle
+- <img src="https://skillicons.dev/icons?i=discord&theme=dark" /> Discord: helldoodle
 
 <img alt="github-snake" src="https://raw.githubusercontent.com/EpicPlayerA10/EpicPlayerA10/output/github-contribution-grid-snake-dark.svg" />
 
