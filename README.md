@@ -28,7 +28,7 @@
 
 ## 💭 Contact with me
 - Telegram: helldoodle
-- <img src="https://skillicons.dev/icons?i=discord&theme=dark" /> Discord: helldoodle
+- Discord: helldoodle
 
 <img alt="github-snake" src="https://raw.githubusercontent.com/EpicPlayerA10/EpicPlayerA10/output/github-contribution-grid-snake-dark.svg" />
 
