@@ -1,9 +1,9 @@
 # <p align="center">Hello zaebal 👋</p>
 ### <p align="center"></p>
 
-## 🔨 My Skills
+## 🔨 My Skills and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,bots,php,py,nodejs,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,bots,php,py,nodejs,js,html,css,sublime,idea,figma,gradle,mongodb,vscode&theme=dark" />
 </p>
 
 <div align="center">
