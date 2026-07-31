@@ -1,4 +1,20 @@
-# <p align="center">Hello zaebal 👋</p>
+<p align="center">
+  <picture>
+    <source
+      srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=34&amp;duration=1&amp;pause=100000&amp;color=E6EDF3&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=700&amp;height=60&amp;lines=hello+zaebal"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=34&amp;duration=1&amp;pause=100000&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=700&amp;height=60&amp;lines=hello+zaebal"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=34&amp;duration=1&amp;pause=100000&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=700&amp;height=60&amp;lines=hello+zaebal"
+      alt="amurcanov, ai-assisted developer"
+    />
+  </picture>
+</p>
+
 ### <p align="center"></p>
 
 ## 🔨 My Skills and Tools
