@@ -13,6 +13,9 @@
       alt="amurcanov, ai-assisted developer"
     />
   </picture> 
+</p>
+
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/FragileDeviations/FragileDeviations/main/wavey.gif"
     alt="wavey"
