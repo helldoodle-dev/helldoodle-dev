@@ -13,7 +13,10 @@
       alt="amurcanov, ai-assisted developer"
     />
   </picture> 
-  ![wavey](https://raw.githubusercontent.com/FragileDeviations/FragileDeviations/main/wavey.gif)
+  <img
+    src="https://raw.githubusercontent.com/FragileDeviations/FragileDeviations/main/wavey.gif"
+    alt="wavey"
+  />
 </p>
 
 ### <p align="center"></p>
@@ -35,15 +38,15 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=amurcanov&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=ru&amp;card_width=620&amp;bg_color=00000000&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF&amp;ring_color=58A6FF"
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=helldoodle-dev&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=ru&amp;card_width=620&amp;bg_color=00000000&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF&amp;ring_color=58A6FF"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=amurcanov&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=ru&amp;card_width=620&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=24292F&amp;icon_color=0969DA&amp;ring_color=0969DA"
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=helldoodle-dev&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=ru&amp;card_width=620&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=24292F&amp;icon_color=0969DA&amp;ring_color=0969DA"
       media="(prefers-color-scheme: light)"
     />
     <img
-      src="https://github-readme-stats-fast.vercel.app/api?username=amurcanov&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=ru&amp;card_width=620&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=24292F&amp;icon_color=0969DA&amp;ring_color=0969DA"
+      src="https://github-readme-stats-fast.vercel.app/api?username=helldoodle-dev&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=ru&amp;card_width=620&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=24292F&amp;icon_color=0969DA&amp;ring_color=0969DA"
       width="620"
       alt="GitHub stats"
     />
