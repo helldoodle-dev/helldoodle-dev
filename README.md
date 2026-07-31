@@ -1,15 +1,15 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=34&amp;duration=1&amp;pause=100000&amp;color=E6EDF3&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=700&amp;height=40&amp;lines=hello+zaebal"
+      srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=34&amp;duration=1&amp;pause=100000&amp;color=E6EDF3&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=700&amp;height=30&amp;lines=hello+zaebal"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=34&amp;duration=1&amp;pause=100000&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=700&amp;height=40&amp;lines=hello+zaebal"
+      srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=34&amp;duration=1&amp;pause=100000&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=700&amp;height=30&amp;lines=hello+zaebal"
       media="(prefers-color-scheme: light)"
     />
     <img
-      src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=34&amp;duration=1&amp;pause=100000&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=700&amp;height=40&amp;lines=hello+zaebal"
+      src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=34&amp;duration=1&amp;pause=100000&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=700&amp;height=30&amp;lines=hello+zaebal"
       alt="amurcanov, ai-assisted developer"
     />
   </picture> 
@@ -34,7 +34,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=helldoodle-dev&color=brightgreen)
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/helldoodle-dev?style=social">
 <a href="https://github.com/helldoodle-dev"><img src="https://img.shields.io/github/followers/helldoodle-dev.svg?label=GitHub&style=social" alt="GitHub"></a>
-<a href="https://helldoodle.space"><img src="https://img.shields.io/website?color=1&down_color=1&down_message=1&logoColor=1&style=social&up_color=1&url=https%3A%2F%2Fhelldoodle.space" alt="Website"></a>
 </div>
 
 ## 📊 GitHub Stats
